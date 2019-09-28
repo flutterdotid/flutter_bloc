@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="http://flutter.id/wp-content/uploads/2019/09/tasbihdigital.gif">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
