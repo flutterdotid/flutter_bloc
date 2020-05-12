@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<iframe width="100%" height="500px" src="http://flutter.id/web/membuat-tasbih-digital-dengan-flutter-bloc/#/"></iframe>
+<a href="http://flutter.id/web/membuat-tasbih-digital-dengan-flutter-bloc/#/">http://flutter.id/web/membuat-tasbih-digital-dengan-flutter-bloc/#/</a>
 
 <img src="http://flutter.id/wp-content/uploads/2019/09/tasbihdigital.gif">
 
